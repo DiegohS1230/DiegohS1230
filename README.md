@@ -1,6 +1,6 @@
 <div align="center">
 
-¡Hola! Soy Diego Alonso Barquero Mena 👋
+¡Hola! Soy Diego Barquero Mena 👋
 Estudiante de Ingeniería en Sistemas · Universidad Nacional de Costa Rica
 Técnico Medio en Configuración y Soporte de Redes de Comunicación y Sistemas Operativos
 
@@ -21,7 +21,7 @@ Lenguajes que he utilizado en proyectos académicos
 
 Otras áreas: programación orientada a objetos, estructuras de datos, fundamentos de redes, soporte técnico y mantenimiento de computadoras.
 
-Herramientas: Git y GitHub.
+Herramientas: GitHub.
 🚀 Proyectos destacados
 Proyecto	Tecnologías	Descripción
 Sistema de Reservas	Java	Proyecto de gestión de reservas desarrollado durante mi formación académica.
@@ -37,7 +37,7 @@ Los repositorios incluyen proyectos individuales y grupales. En cada proyecto bu
 - Fortalezco mis conocimientos mediante proyectos prácticos de programación y tecnología.
 🤝 Contacto
 - GitHub: @DiegohS1230
-- LinkedIn: Agregar enlace a mi perfil profesional cuando esté listo.
+- LinkedIn: https://www.linkedin.com/in/diego-barquero-mena-b57695446/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B04orboxjRe21Q7U%2BNe%2BBog%3D%3D
 <div align="center">
 
 Aprendiendo, construyendo y mejorando proyecto a proyecto.
